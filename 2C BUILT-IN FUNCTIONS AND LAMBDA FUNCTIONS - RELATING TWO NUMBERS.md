@@ -24,17 +24,18 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
-
+# 212223060073
+# Gowri Sankari R
+result = lambda x,y : f"The greatest number is: {x}" if x>y else (f"The greatest number is: {y}")
+a=int(input())
+b=int(input())
+print(result(a,b))
 ```
 
 ### OUTPUT
 
-```
+<img width="1174" height="341" alt="2C" src="https://github.com/user-attachments/assets/73d3bbb6-dd1c-4b49-a27e-9e8bba1e0ad0" />
 
-```
 
 ### RESULT
-
-```
-
-```
+Thus, the Python Program for finding the greatest of two numbers using lambda function is executed sucessfully.
