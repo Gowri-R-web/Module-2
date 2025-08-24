@@ -27,8 +27,8 @@ To write a Python program to check the relation between two numbers — whether 
 # 212223060073
 # Gowri Sankari R
 result = lambda x,y : f"The greatest number is: {x}" if x>y else (f"The greatest number is: {y}")
-a=int(input())
-b=int(input())
+a=eval(input())
+b=eval(input())
 print(result(a,b))
 ```
 
